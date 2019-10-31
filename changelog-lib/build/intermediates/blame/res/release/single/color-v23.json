@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/9ee5da6fca20f6f07dce6c73fc4ca33a/material-1.0.0/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/color-v23/abc_tint_default.xml"
+    }
+]

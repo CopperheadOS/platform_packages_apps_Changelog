@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/9ee5da6fca20f6f07dce6c73fc4ca33a/material-1.0.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/9ee5da6fca20f6f07dce6c73fc4ca33a/material-1.0.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

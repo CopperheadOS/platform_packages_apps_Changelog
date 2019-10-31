@@ -1,0 +1,2 @@
+include ':app', ':changelog-lib'
+rootProject.name='Changelog'

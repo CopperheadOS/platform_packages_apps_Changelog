@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+id changelog_image
+id pbLoading
+id rvChangelog
+id toolbar
+id tvBullet
+id tvButton
+id tvHeaderDate
+id tvHeaderVersion
+id tvText
+layout changelog_activity
+layout changelog_dialog
+layout changelog_header
+layout changelog_image
+layout changelog_more
+layout changelog_row
+raw changelog
+string changelog_bug_improvement
+string changelog_bug_prefix
+string changelog_bullet
+string changelog_dialog_button
+string changelog_dialog_rate
+string changelog_dialog_title
+string changelog_show_more
+string changelog_version_title
+style ChangelogDialogDarkTheme
+style ChangelogDialogLightTheme
+style ChangelogHeader
+style ChangelogHeaderDate
+style ChangelogHeaderVersion
+style ChangelogMore
+style ChangelogRow

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/9ee5da6fca20f6f07dce6c73fc4ca33a/material-1.0.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/9ee5da6fca20f6f07dce6c73fc4ca33a/material-1.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

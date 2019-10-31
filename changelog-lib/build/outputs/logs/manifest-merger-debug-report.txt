@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml:2:11-48
+		INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+		INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml:4:5-9:19
+activity#com.michaelflisar.changelog.internal.ChangelogActivity
+ADDED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml:6:9-7:74
+	android:theme
+		ADDED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml:7:13-71
+	android:name
+		ADDED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml:6:19-61
+uses-sdk
+INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+		ADDED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+		INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+		ADDED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml
+		INJECTED from /home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/src/main/AndroidManifest.xml

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/gmillz/cos-backup/packages/apps/Changelog/changelog-lib/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/gmillz/cos-backup/.gradle/caches/transforms-2/files-2.1/f5bdf8930f5b0dade80802408310dda6/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
