@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Changelog</string>
+    <string name="app_name">Copperhead</string>
+    <string name="opt_out">Opt out</string>
 </resources>

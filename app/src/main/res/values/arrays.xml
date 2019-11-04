@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="changelog_files">
+        <item>welcome</item>
+        <item>page1</item>
+        <item>page2</item>
+        <item>page3</item>
+        <item>changelog</item>
+    </array>
+</resources>

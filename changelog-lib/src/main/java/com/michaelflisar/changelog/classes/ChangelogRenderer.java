@@ -4,6 +4,7 @@ import android.content.Context;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.text.Html;
+import android.text.TextUtils;
 import android.text.method.LinkMovementMethod;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -74,11 +75,13 @@ public class ChangelogRenderer implements IChangelogRenderer<ChangelogRenderer.V
         if (row != null) {
             // 1) update text
             String text = row.getText(context);
-            viewHolder.tvText.setText(Html.fromHtml(text));
-            viewHolder.tvText.setMovementMethod(LinkMovementMethod.getInstance());
+            if (!TextUtils.isEmpty(text)) {
+                viewHolder.tvText.setText(Html.fromHtml(text));
+                viewHolder.tvText.setMovementMethod(LinkMovementMethod.getInstance());
+            }
 
             // 2) update bullet list item
-            viewHolder.tvBullet.setVisibility(builder.isUseBulletList() ? View.VISIBLE : View.GONE);
+            viewHolder.tvBullet.setVisibility((builder.isUseBulletList() && !TextUtils.isEmpty(text)) ? View.VISIBLE : View.GONE);
         }
     }
 
