@@ -1261,6 +1261,7 @@ layout changelog_activity
 layout changelog_dialog
 layout changelog_header
 layout changelog_image
+layout changelog_image_non_fixed
 layout changelog_more
 layout changelog_row
 layout custom_dialog

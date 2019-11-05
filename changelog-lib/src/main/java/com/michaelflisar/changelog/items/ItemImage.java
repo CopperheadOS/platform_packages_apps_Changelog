@@ -13,9 +13,11 @@ import com.michaelflisar.changelog.internal.ChangelogRecyclerViewAdapter;
 public class ItemImage implements IImage {
 
     public String mImage;
+    public boolean mFixed;
 
-    public ItemImage(String image) {
+    public ItemImage(String image, boolean fixed) {
         mImage = image;
+        mFixed = fixed;
     }
 
     @Override

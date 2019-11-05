@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release versionName="Licensing Screen">
+        <image>license_interface</image>
+        <info>
+            This is the new licensing screen. To activate your device on our licensing platform you’ll need an active license. Licenses will be activated based on your purchase of CopperheadOS and who you purchased it from.
+        </info>
+    </release>
+</changelog>

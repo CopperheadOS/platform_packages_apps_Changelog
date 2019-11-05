@@ -76,7 +76,7 @@ public class ChangelogRecyclerViewAdapter extends RecyclerView.Adapter<RecyclerV
     }
 
     @Override
-    public final void onBindViewHolder(RecyclerView.ViewHolder viewHolder, final int position) {
+    public void onBindViewHolder(RecyclerView.ViewHolder viewHolder, final int position) {
         if (getItem(position).getRecyclerViewType() == Type.Header) {
             mBuilder.getRenderer().bindHeader(this, mContext, viewHolder, (ItemRelease) getItem(position), mBuilder);
         } else if (getItem(position).getRecyclerViewType() == Type.Row) {

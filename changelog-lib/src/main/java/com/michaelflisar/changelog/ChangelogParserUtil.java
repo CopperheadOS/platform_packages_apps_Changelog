@@ -1,6 +1,7 @@
 package com.michaelflisar.changelog;
 
 import android.content.Context;
+import android.text.TextUtils;
 import android.util.Log;
 import android.util.Xml;
 
@@ -139,6 +140,8 @@ class ChangelogParserUtil {
         if (parser == null || changelog == null) {
             return;
         }
+        String fixedString = parser.getAttributeValue(null, Constants.XML_ATTR_IMAGE_FIXED_SIZE);
+        boolean fixed = TextUtils.isEmpty(fixedString) || Boolean.parseBoolean(fixedString);
         if (parser.next() == XmlPullParser.TEXT) {
             String image = parser.getText();
             parser.nextTag();
@@ -146,7 +149,7 @@ class ChangelogParserUtil {
             if (image == null) {
                 return;
             }
-            ItemImage itemImage = new ItemImage(image);
+            ItemImage itemImage = new ItemImage(image, fixed);
             release.addImage(itemImage);
         }
     }

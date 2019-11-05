@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-    <release>
-        <info>This is an exciting new way to receive CopperheadOS updates and support! With this platform you can now purchase CopperheadOS through a reseller and utilize existing (bootloader unlockable) without requiring a hardware purchase from us. In addition to being able to receive CopperheadOS without purchasing hardware, we’re now able to provide CopperheadOS to customers for a small activation + monthly fee.</info>
+    <release versionName="Messaging → Opt-Out">
+        <image>opt_out_screen</image>
+        <info>
+            If you’d like, you’re able to opt out of this feature in Settings → System → Update Settings → Opt-Out. You can always find changes and updates to CopperheadOS on our website.
+        </info>
+        <info></info>
+        <info>https://copperhead.co/android/docs/updates</info>
     </release>
 </changelog>

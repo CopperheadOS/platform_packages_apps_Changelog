@@ -22,6 +22,8 @@ public class Constants {
     public static final String XML_ATTR_TITLE = "title";
     public static final String XML_ATTR_TYPE = "type";
 
+    public static final String XML_ATTR_IMAGE_FIXED_SIZE = "fixed";
+
     // XML Values
     public static final String XML_VALUE_SUMMARY = "summary";
 }

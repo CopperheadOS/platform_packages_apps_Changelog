@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-    <release>
-        <info>We will be transitioning all of our customers to Copperhead’s new licensing platform. We will be rolling this out to our existing customers (you) in a staggered schedule to ensure stability. The device rollout schedule will be:</info>
+    <release versionName="CopperheadOS Licensed Downloads">
         <info></info>
-        <info>November 4th - 8th: Pixel 1, Pixel XL</info>
-        <info>November 11th - 15th: Pixel 2, Pixel 2 XL</info>
+        <info>
+            In the next few weeks we will be transitioning all of our customers to Copperhead’s new licensing platform.  We will be rolling this out to our existing customers in a staggered schedule to ensure stability.  If you experience errors during this transition contact your reseller or support@copperhead.co        </info>
+        <info></info>
+        <info>November 13th - Pixel 2</info>
+        <info>November 19th - Pixel 2 XL</info>
     </release>
 </changelog>

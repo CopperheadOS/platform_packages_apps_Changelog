@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-    <release>
-        <info>Hello and welcome to CopperheadOS’s messaging system! Here you’ll be able to access our changelog of our additions to the OS as well as any necessary information to our customers.</info>
+    <release versionName="CopperheadOS Messaging System">
+        <info></info>
+        <image fixed="false">ic_copperhead</image>
+        <info></info>
+        <info>Hello, and welcome to CopperheadOS’s messaging system!</info>
+        <info></info>
+        <info>
+            We will use this system to provide information of our changes to the OS as well as important announcements for customers.
+        </info>
+        <info></info>
+        <info>
+            A message box, similar to this one will appear once after a reboot from an update.
+        </info>
     </release>
 </changelog>

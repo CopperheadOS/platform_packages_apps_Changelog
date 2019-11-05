@@ -17,7 +17,7 @@ android {
 
 
     defaultConfig {
-        applicationId "co.copperhead.changelog"
+        applicationId "co.copperhead.changelog1"
         minSdkVersion 28
         targetSdkVersion 29
         versionCode  getVersionCode()

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-    <release versionCode="1" versionName="v9.0" date="2019-11-04">
+    <release versionName="CopperheadOS Changes">
+        <info></info>
+    </release>
+    <release versionCode="1" versionName="v9.0" date="2019-11-06">
         <info>August, September, October, November 2019 security patches</info>
         <info>Added changelog</info>
         <info>Updater app fixes</info>

@@ -98,10 +98,10 @@ public class ChangelogRenderer implements IChangelogRenderer<ChangelogRenderer.V
     @Override
     public void bindImage(ChangelogRecyclerViewAdapter adapter, Context context, ViewHolderImage viewHolder, ItemImage image, ChangelogBuilder builder) {
         if (image != null) {
+            if (!image.mFixed) {
+                viewHolder.itemView.getLayoutParams().height = ViewGroup.LayoutParams.WRAP_CONTENT;
+            }
             viewHolder.imageView.setImageDrawable(image.getDrawable(context));
-            viewHolder.imageView.setOnClickListener(v -> {
-                
-            });
         }
     }
 
@@ -161,7 +161,7 @@ public class ChangelogRenderer implements IChangelogRenderer<ChangelogRenderer.V
     }
 
     public static class ViewHolderImage extends RecyclerView.ViewHolder {
-        private final ImageView imageView;
+        public final ImageView imageView;
 
         public ViewHolderImage(View itemView, ChangelogBuilder builder) {
             super(itemView);
